@@ -85,11 +85,14 @@ body{
     width:70%
 }
 .section-type-1 .left-box .left-box-top{
-    height: 70vh;
+    /* height: 70vh; */
+    /* width: 100%; */
+    padding-top: 42%;
     background-image: url("https://images.pexels.com/photos/36764/marguerite-daisy-beautiful-beauty.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-repeat: no-repeat;
     background-position: top;
-    background-size: 100% 80%;
+    background-size: auto ;
+    background-size: 100%;
     border-bottom: #004B8C solid 1px;
 }
 .section-type-1 .left-box .left-box-bottom .row:nth-child(1){
